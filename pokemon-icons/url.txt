@@ -1,2 +1,5 @@
 https://theartificial.com/pokemonicons/
 https://play.pokemonshowdown.com/sprites/xyani/
+https://www.furretturret.com/resources
+https://pokemondb.net/sprites
+https://github.com/ZeChrales/PogoAssets/tree/master/pokemon_icons
